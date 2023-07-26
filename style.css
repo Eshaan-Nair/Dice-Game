@@ -1,0 +1,35 @@
+body {
+    background-color: #3f4845;
+    text-align: center;
+
+}
+.container {
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+}
+h1 {
+    margin: 30px;
+    font-size: 8rem;
+    font-family: serif;
+    color: #4ECCA3;
+}
+.player {
+    display: inline-block;
+    margin: 25px;
+}
+p {
+    font-size: 3rem;
+    color: #4ECCA3;
+    font-family: sans-serif;
+    margin: 10px;
+}
+img {
+    height: 200px;
+    width: 200px;
+}
+footer {
+    color: white;
+    font-size: 2rem;
+    font-family: sans-serif;
+}
